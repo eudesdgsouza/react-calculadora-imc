@@ -3,7 +3,7 @@
 Este é um projeto simples de uma **Calculadora de IMC (Índice de Massa Corporal)** construída com **React**. A aplicação permite aos usuários calcular seu IMC com base no peso e altura, fornecendo a classificação de acordo com os resultados, como "Abaixo do peso", "Peso normal", "Sobrepeso" ou "Obesidade".
 
 ## Deploy
-- [Live]()
+- [Live](https://react-calculadora-imc-nu.vercel.app/)
 
 ## Funcionalidades
 
